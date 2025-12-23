@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-instructor" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Instructor Information</title>
+	<introduction>
+		<p>
+			<dl>
+				<li>
+					<title>Instructor</title>
+					<p>
+                        <email>your.email@pcc.edu</email>
+					</p>
+				</li>
+				<li>
+					<title>Phone</title>
+					<p>
+                        971-722-xxxx
+					</p>
+				</li>
+				<li>
+					<title>Office Location</title>
+					<p>
+						Building XXX
+					</p>
+				</li>
+				<li>
+					<title>School Address</title>
+					<p>
+						Portland Community College, 12000 SW 49th Ave., Portland, OR 97219
+					</p>
+				</li>
+			</dl>
+		</p>
+	</introduction>
+
+	<subsection>
+		<title>About Me</title>
+		<p>
+			Write about yourself :)
+		</p>
+	</subsection>
+	<subsection>
+		<title>Communication</title>
+        <p>
+            The following guide will assist you in communicating with members of this course and
+            outlines course-specific communication standards.
+        </p>
+		<paragraphs>
+            <title>Best Way to Contact Me</title>
+            <p>
+                Write about the best way to contact you.
+            </p>
+		</paragraphs>
+	</subsection>
+
+	<subsection>
+		<title>Schedule</title>
+        <p>
+            This term I am teaching the following classes:
+        </p>
+		<table>
+			<title>Term Schedule</title>
+		<tabular top="major" valign="top" left="major" bottom="minor">
+			<col/>
+			<col/>
+			<col/>
+			<col/>
+			<col right="major"/>
+			<col right="major"/>
+			<col right="major"/>
+			<row header="yes" bottom="medium">
+				<cell>Class</cell>
+				<cell>CRN</cell>
+				<cell>Days</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+				<cell>Midterm</cell>
+				<cell>Final</cell>
+			</row>
+            <!--
+			<row>
+				<cell>class</cell>
+				<cell>crn</cell>
+				<cell>weekdays</cell>
+                <cell>start<ndash/>endtime</cell>
+				<cell>room</cell>
+				<cell>midterm</cell>
+				<cell>final</cell>
+			</row>
+            -->
+			<row bottom="major">
+				<cell>class</cell>
+				<cell>crn</cell>
+				<cell>weekdays</cell>
+                <cell>start<ndash/>endtime</cell>
+				<cell>room</cell>
+				<cell>midterm</cell>
+				<cell>final</cell>
+			</row>
+		</tabular>
+	</table>
+		<table>
+			<title>Office Hours</title>
+		<tabular top="major" valign="top" left="major" bottom="minor">
+			<col/>
+			<col/>
+			<col right="major"/>
+            <row header="yes">
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+			</row>
+            <!--
+            <row>
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+            </row>
+            -->
+			<row bottom="major">
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+            </row>
+		</tabular>
+	</table>
+
+		</subsection>
+
+	</section>

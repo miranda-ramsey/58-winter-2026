@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <article xml:id="lastname-mthXX-syllabus">
+    <title>Syllabus</title>
+    <subtitle>MTHXX Coursename</subtitle>
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <!-- Include sections -->
+    <xi:include href="./sec-course-information.ptx" />
+    <xi:include href="./sec-instructor.ptx" />
+    <xi:include href="./sec-materials.ptx" />
+    <xi:include href="./sec-attendance.ptx" />
+    <xi:include href="./sec-grading.ptx" />
+    <xi:include href="./sec-policies.ptx" />
+    <xi:include href="./sec-calendar.ptx" />
+
+
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </article>
+</pretext>
