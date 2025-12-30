@@ -8,19 +8,25 @@
 				<li>
 					<title>Instructor</title>
 					<p>
-                        <email>your.email@pcc.edu</email>
+                        Miranda Jane Ramsey
+					</p>
+				</li>
+				<li>
+					<title>Email</title>
+					<p>
+                        <email>miranda.ramsey@pcc.edu</email>
 					</p>
 				</li>
 				<li>
 					<title>Phone</title>
 					<p>
-                        971-722-xxxx
+                        971-722-3542
 					</p>
 				</li>
 				<li>
 					<title>Office Location</title>
 					<p>
-						Building XXX
+                        SCOM 214
 					</p>
 				</li>
 				<li>
@@ -33,22 +39,20 @@
 		</p>
 	</introduction>
 
+    <!--
 	<subsection>
 		<title>About Me</title>
 		<p>
-			Write about yourself :)
 		</p>
 	</subsection>
+    -->
 	<subsection>
 		<title>Communication</title>
-        <p>
-            The following guide will assist you in communicating with members of this course and
-            outlines course-specific communication standards.
-        </p>
 		<paragraphs>
             <title>Best Way to Contact Me</title>
             <p>
-                Write about the best way to contact you.
+                I can best be reached by email. I try to reply the same day when I can, and I will
+                generally reply before the end of the next school day.
             </p>
 		</paragraphs>
 	</subsection>
@@ -77,25 +81,44 @@
 				<cell>Midterm</cell>
 				<cell>Final</cell>
 			</row>
-            <!--
 			<row>
-				<cell>class</cell>
-				<cell>crn</cell>
-				<cell>weekdays</cell>
-                <cell>start<ndash/>endtime</cell>
-				<cell>room</cell>
-				<cell>midterm</cell>
-				<cell>final</cell>
+				<cell>STAT 243Z</cell>
+				<cell>13446</cell>
+				<cell>MW</cell>
+                <cell>9:00<ndash/>11:50</cell>
+                <cell>TABOR 142</cell>
+				<cell>February 9</cell>
+				<cell>March 16</cell>
 			</row>
-            -->
+			<row>
+				<cell>MTH 58</cell>
+				<cell>11475</cell>
+				<cell>MW</cell>
+                <cell>2:00<ndash/>4:20</cell>
+                <cell>SCOM 314</cell>
+                <cell>
+                    <line>February 4</line>
+                    <line>February 25</line>
+                </cell>
+				<cell>March 18</cell>
+			</row>
 			<row bottom="major">
-				<cell>class</cell>
-				<cell>crn</cell>
-				<cell>weekdays</cell>
-                <cell>start<ndash/>endtime</cell>
-				<cell>room</cell>
-				<cell>midterm</cell>
-				<cell>final</cell>
+				<cell>MTH 111Z</cell>
+				<cell>11221</cell>
+				<cell>TuTh</cell>
+                <cell>9:00<ndash/>11:50</cell>
+                <cell>TABOR 143</cell>
+				<cell>February 5</cell>
+				<cell>March 12</cell>
+			</row>
+			<row bottom="major">
+				<cell>MTH 231</cell>
+				<cell>-</cell>
+				<cell>TuTh</cell>
+                <cell>1:00<ndash/>3:40</cell>
+                <cell>Zoom</cell>
+				<cell></cell>
+				<cell></cell>
 			</row>
 		</tabular>
 	</table>
@@ -110,17 +133,20 @@
 				<cell>Time</cell>
 				<cell>Place</cell>
 			</row>
-            <!--
-            <row>
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
+			<row>
+                <cell>Mondays</cell>
+				<cell>12-1</cell>
+				<cell>SCOM 214</cell>
             </row>
-            -->
+			<row>
+                <cell>Wednesdays</cell>
+				<cell>12-1</cell>
+				<cell>SCOM 214</cell>
+            </row>
 			<row bottom="major">
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
+                <cell>Fridays</cell>
+				<cell>By Appointment</cell>
+				<cell>Zoom</cell>
             </row>
 		</tabular>
 	</table>

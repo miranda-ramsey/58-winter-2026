@@ -4,9 +4,9 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <article xml:id="lastname-mthXX-syllabus">
+  <article xml:id="ramsey-mth58-syllabus">
     <title>Syllabus</title>
-    <subtitle>MTHXX Coursename</subtitle>
+    <subtitle>MTH 58: Math Literacy I</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />

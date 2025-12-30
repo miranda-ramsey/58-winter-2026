@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-calendar" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Schedule</title>
-	<introduction>
-		<p>
-            This schedule is a tentative outline and may change to meet the needs of the class.
-		</p>
-	</introduction>
-
-	<subsection>
-		<title>Weekly Structure</title>
-		<p>
-            Write about the weekly structure students can expect here.
-            <ul>
-                <li>
-                    <p>
-                    </p>
-                </li>
-            </ul>
-		</p>
-	</subsection>
-
-	<subsection>
-		<title>Calendar</title>
-		<table>
-			<title>Course Calendar</title>
+	<title>Calendar</title>
+	<p>
+        This schedule is a tentative outline and may change to meet the needs of the class.
+	</p>
+	<table>
+		<title>Course Calendar</title>
 		<tabular top="major" valign="top" left="major" bottom="minor">
 			<col/>
 			<col/>
@@ -32,74 +14,211 @@
 			<col right="major"/>
 			<row header="yes" bottom="medium">
 				<cell>Week</cell>
-                <cell>Monday<!--Tuesday--></cell>
-                <cell>Wednesday<!--Thursday--></cell>
+                <cell>Monday</cell>
+                <cell>Wednesday</cell>
 				<cell>Assignments</cell>
 			</row>
-            <!--
+
 			<row>
+                <cell>1</cell>
                 <cell>
-                    <line></line>
+                    <line>January 5</line>
+                    <line>Introduction</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>January 7</line>
+                    <line>Section 1-1</line>
+                    <line>Quiz 1 (Practice)</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>ALEKS Knowledge Check</line>
+                    <line>W1 Discussion Post (due 1/7)</line>
+                    <line>W1 Discussion Reply (due 1/9)</line>
+                    <line>ALEKS 1-1 (Due 1/11)</line>
                 </cell>
-                <cell>
-                    <line></line>
-                </cell>
-
 			</row>
-            -->
+
+			<row>
+                <cell>2</cell>
+                <cell>
+                    <line>January 12</line>
+                    <line>Section 1-2</line>
+                </cell>
+                <cell>
+                    <line>January 14</line>
+                    <line>Section 1-3</line>
+                    <line>Quiz 2</line>
+                </cell>
+                <cell>
+                    <line>W2 Discussion Post (due 1/14)</line>
+                    <line>W2 Discussion Reply (due 1/16)</line>
+                    <line>ALEKS 1-2 (Due 1/18)</line>
+                    <line>ALEKS 1-3 (Due 1/18)</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>3</cell>
+                <cell>
+                    <line>January 19</line>
+                    <line>No Class</line>
+                    <line>Dr. MLK Jr. Day</line>
+                </cell>
+                <cell>
+                    <line>January 21</line>
+                    <line>Section 1-4</line>
+                    <line>Quiz 3</line>
+                </cell>
+                <cell>
+                    <line>W3 Discussion Post (due 1/21)</line>
+                    <line>W3 Discussion Reply (due 1/23)</line>
+                    <line>ALEKS Module 1 (Due 1/23)</line>
+                    <line>ALEKS 1-4 (Due 1/25)</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>4</cell>
+                <cell>
+                    <line>January 26</line>
+                    <line>Section 1-7</line>
+                </cell>
+                <cell>
+                    <line>January 28</line>
+                    <line>Section 2-2</line>
+                    <line>Quiz 4</line>
+                </cell>
+                <cell>
+                    <line>W4 Discussion Post (due 1/28)</line>
+                    <line>W4 Discussion Reply (due 1/30)</line>
+                    <line>ALEKS 1-7 (Due 2/1)</line>
+                    <line>ALEKS 2-2 (Due 2/1)</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>5</cell>
+                <cell>
+                    <line>February 2</line>
+                    <line>Exam Review</line>
+                    <line>Book Check 1</line>
+                </cell>
+                <cell>
+                    <line>February 4</line>
+                    <line>Exam 1</line>
+                </cell>
+                <cell>
+                </cell>
+			</row>
+
+			<row>
+                <cell>6</cell>
+                <cell>
+                    <line>February 9</line>
+                    <line>Section 2.3</line>
+                </cell>
+                <cell>
+                    <line>February 11</line>
+                    <line>Section 2.4</line>
+                    <line>Quiz 5</line>
+                </cell>
+                <cell>
+                    <line>W6 Discussion Post (due 2/11)</line>
+                    <line>W6 Discussion Reply (due 2/13)</line>
+                    <line>ALEKS 2-3 (Due 2/15)</line>
+                    <line>ALEKS 2-4 pt 1 (Due 2/15)</line>
+                    <line>Sheets Check 1</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>7</cell>
+                <cell>
+                    <line>February 16</line>
+                    <line>Section 2.5</line>
+                    <line>Group Project Intro</line>
+                </cell>
+                <cell>
+                    <line>February 18</line>
+                    <line>Section 3.1</line>
+                    <line>Quiz 6</line>
+                </cell>
+                <cell>
+                    <line>W7 Discussion Post (due 2/18)</line>
+                    <line>W7 Discussion Reply (due 2/20)</line>
+                    <line>ALEKS 2-4 pt 2 (Due 2/22)</line>
+                    <line>ALEKS 2-5 (Due 2/25)</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>8</cell>
+                <cell>
+                    <line>February 23</line>
+                    <line>Exam Review</line>
+                    <line>Book Check 2</line>
+                    <line>Group Project Part 1</line>
+                </cell>
+                <cell>
+                    <line>February 25</line>
+                    <line>Exam 2</line>
+                </cell>
+                <cell>
+                </cell>
+			</row>
+
+			<row>
+                <cell>9</cell>
+                <cell>
+                    <line>March 2</line>
+                    <line>Section 3.2</line>
+                    <line>Group Project Part 2</line>
+                </cell>
+                <cell>
+                    <line>March 4</line>
+                    <line>Section 3.3</line>
+                    <line>Quiz 7</line>
+                </cell>
+                <cell>
+                    <line>W9 Discussion Post (due 3/4)</line>
+                    <line>W9 Discussion Reply (due 3/6)</line>
+                    <line>ALEKS 3-1 (Due 3/8)</line>
+                    <line>ALEKS 3-2 (Due 3/8)</line>
+                </cell>
+			</row>
+
 			<row bottom="major">
+                <cell>10</cell>
                 <cell>
-                    <line></line>
+                    <line>March 9</line>
+                    <line>Group Project Part 3</line>
+                    <line>Quiz 8</line>
+                    <line>Book Check 3</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>March 11</line>
+                    <line>Presentations</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>W10 Discussion Post (due 3/11)</line>
+                    <line>W10 Discussion Reply (due 3/13)</line>
+                    <line>Sheets Check 2</line>
+                </cell>
+			</row>
+
+			<row bottom="major">
+                <cell>Finals</cell>
+                <cell>
+                    <line>March 16</line>
+                    <line>No Class</line>
                 </cell>
                 <cell>
-                    <line></line>
+                    <line>March 18</line>
+                    <line>Final Exam</line>
                 </cell>
+                <cell>-</cell>
 
 			</row>
 		</tabular>
 	</table>
-		<table>
-			<title>Office Hours</title>
-		<tabular top="major" valign="top" left="major" bottom="minor">
-			<col/>
-			<col/>
-			<col right="major"/>
-            <row header="yes">
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
-			</row>
-            <!--
-            <row>
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
-            </row>
-            -->
-			<row bottom="major">
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
-            </row>
-		</tabular>
-	</table>
-
-		</subsection>
-
-	</section>
+</section>

@@ -11,25 +11,100 @@
 	<subsection>
 		<title>Graded Assignments</title>
 		<p>
-            <ul>
+            <dl>
                 <li>
+                    <title>Class Participation</title>
                     <p>
+                        Each day of class you will receive a grade based on arriving on time, 
+                        having all of your required course materials and notes completed, engaging 
+                        and participating during the lab time, and staying until the end of class.
                     </p>
                 </li>
-            </ul>
+                <li>
+                    <title>ALEKS Homework</title>
+                    <p>
+                        Most sections we cover in class will have an associated homework assignment
+                        in ALEKS. Additionally, there will be a knowledge check and a Module 1 check
+                        assigned.
+                    </p>
+                </li>
+                <li>
+                    <title>Discussions</title>
+                    <p>
+                        Each non-exam week will have a discussion prompt to respond to in D2L. 
+                        Discussion prompts will be in two parts: 
+                        <ol>
+                            <li>
+                                <p>
+                                    Create a new thread with your response to the prompt. Each 
+                                    prompt will have instructions for that week's post.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    One or more replies to other students' posts. Each prompt will
+                                    have instructions for that week's replies.
+                                </p>
+                            </li>
+                        </ol>
+                    </p>
+                </li>
+                <li>
+                    <title>Book Applications</title>
+                    <p>
+                        We will be completing worksheets in the textbook as a class, in groups, and
+                        on your own. There will be some time in class for this, but you will be 
+                        expected to spend time out of class completing them if needed. 
+                        Before each exam, I will collect your textbooks to grade your completeness. 
+                    </p>
+                </li>
+                <li>
+                    <title>Spreadsheet Assignments</title>
+                    <p>
+                        As we progress through the class you will be assigned activities to complete
+                        with Google Sheets. There will be some time in class for this, but you will
+                        be expected to spend time out of class completing them if needed. I will
+                        grade your spreadsheet for completeness twice during the term.
+                    </p>
+                </li>
+                <li>
+                    <title>Quizzes</title>
+                    <p>
+                        Each non-exam week will have a quiz on the material we covered in class.
+                    </p>
+                </li>
+                <li>
+                    <title>Exams</title>
+                    <p>
+                        There will be three exams, each covering a different module from the
+                        textbook. The exams will be on February 4, February 25, and March 18.
+                    </p>
+                </li>
+                <li>
+                    <title>Final Project</title>
+                    <p>
+                        Starting in week 7, you will work with a group on a final project, planning
+                        out the purchase of a car. Your results will be presented on the last 
+                        scheduled class day before the final exam.
+                    </p>
+                </li>
+            </dl>
 		</p>
 	</subsection>
-
+    
 	<subsection>
         <title>Late Work and Make-Up Policy</title>
 		<p>
-            <ul>
-                <li>
-                    <p>
-                    </p>
-                </li>
-            </ul>
+            Students are expected to complete all assignments on pace with the course. However, I 
+            understand that external things get in the way. I will consider giving up to 1 week 
+            extension on assignments when requested <em>before</em> the original due date of the 
+            assignment. All assignments must be completed before the final exam, regardless of
+            extension requests.
 		</p>
+        <p>
+            If you must miss an exam, you must arrange a make up exam with me <em>before</em> the 
+            day of the exam.
+        </p>
 	</subsection>
     
 	<subsection>
@@ -46,17 +121,64 @@
                 <row header="yes">
                     <cell>Activities</cell>
                     <cell>Number</cell>
-                    <cell>Points Each</cell>
-                    <cell>Total</cell>
+                    <cell>Weight</cell>
                 </row>
-                <!--
                 <row>
-                    <cell>enter assignment type here</cell>
-                    <cell>enter number of assignments of that type here</cell>
-                    <cell>enter points each here</cell>
-                    <cell>enter total points here</cell>
+                    <cell>Class Participation</cell>
+                    <cell>16</cell>
+                    <cell>10%</cell>
                 </row>
-                -->
+                <row>
+                    <cell>ALEKS Homework</cell>
+                    <cell>13</cell>
+                    <cell>10%</cell>
+                </row>
+                <row>
+                    <cell>Discussions</cell>
+                    <cell>8</cell>
+                    <cell>5%</cell>
+                </row>
+                <row>
+                    <cell>Book Applications</cell>
+                    <cell>12</cell>
+                    <cell>10%</cell>
+                </row>
+                <row>
+                    <cell>Spreadsheet Assignments</cell>
+                    <cell>12</cell>
+                    <cell>5%</cell>
+                </row>
+                <row>
+                    <cell>Quizzes</cell>
+                    <cell>8</cell>
+                    <cell>5%</cell>
+                </row>
+                <row>
+                    <cell>Midterm 1</cell>
+                    <cell>1</cell>
+                    <cell>15%</cell>
+                </row>
+                <row>
+                    <cell>Midterm 2</cell>
+                    <cell>1</cell>
+                    <cell>15%</cell>
+                </row>
+                <row>
+                    <cell>Final Exam</cell>
+                    <cell>1</cell>
+                    <cell>20%</cell>
+                </row>
+                <row bottom="major">
+                    <cell>Final Project</cell>
+                    <cell>1</cell>
+                    <cell>5%</cell>
+                </row>
+                <row>
+                    <cell>Total</cell>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell>500</cell>
+                </row>
             </tabular>
             <tabular>
                 <col/>
@@ -69,28 +191,28 @@
                 </row>
                 <row>
                     <cell>A</cell>
-                    <cell></cell>
+                    <cell>450-500</cell>
                     <cell>90-100%</cell>
                 </row>
                 <row>
                     <cell>B</cell>
-                    <cell></cell>
+                    <cell>400-449</cell>
                     <cell>80-89%</cell>
                 </row>
                 <row>
                     <cell>C</cell>
-                    <cell></cell>
+                    <cell>350-399</cell>
                     <cell>70-79%</cell>
                 </row>
                 <row>
                     <cell>D</cell>
-                    <cell></cell>
+                    <cell>300-349</cell>
                     <cell>60-69%</cell>
                 </row>
                 <row>
                     <cell>F</cell>
-                    <cell></cell>
-                    <cell>\lt 59%</cell>
+                    <cell>&lt; 300</cell>
+                    <cell>&lt; 59%</cell>
                 </row>
             </tabular>
 		</p>

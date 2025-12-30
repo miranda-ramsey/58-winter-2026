@@ -4,32 +4,55 @@
 	<title>Attendance and Participation</title>
     <introduction>
         <p>
-            Write your expectations for student participation here.
+            Students are expected to attend each scheduled class period. Credit will be given each 
+            day for:
+            <ul>
+                <li>
+                    <p>
+                        Arriving on time with all necessary materials. (2 points)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Engaging with the group during the lab portion. (2 points)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Staying for the full duration of the class. (1 point)
+                    </p>
+                </li>
+            </ul>
         </p>
     </introduction>
     
 	<subsection>
 		<title>First Week Activities</title>
 		<p>
-            During the first week of the term, instructors must:
+            During the first week of the term, instructors must record students who are not in
+            attendance or engaging in the class. Students who have not done the following will be 
+            dropped according to PCC's <url href="https://catalog.pcc.edu/handbook/g302-gradingguidelines-attendanceparticipationandnoshows/">No Show Policy</url>:
             <ul>
                 <li>
                     <p>
+                        Attend all of the first days of class up to the drop deadline.
                     </p>
                 </li>
                 <li>
                     <p>
+                        Enroll in the ALEKS course and complete the first week's assignments.
                     </p>
                 </li>
                 <li>
                     <p>
-                    </p>
-                </li>
-                <li>
-                    <p>
+                        Initialize your Google Sheets spreadsheet assignment using the template
+                        in D2L.
                     </p>
                 </li>
             </ul>
+            If you are unable to complete one of these requirements but want to remain enrolled in 
+            the class, you must speak to me to make an alternative arrangement to show engagement in
+            the course.
 		</p>
 	</subsection>
 
